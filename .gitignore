@@ -5,7 +5,7 @@
 downloads/corenlp.zip
 
 # Extracted CoreNLP files
-corenlp/
+stanford-corenlp-4.0.0/
 
 # Stanfordnlp module resources
 stanfordnlp-resources/
