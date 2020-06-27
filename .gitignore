@@ -1,0 +1,14 @@
+# Python's virtual environment
+.pyenv/
+
+# CoreNLP download file
+downloads/corenlp.zip
+
+# Extracted CoreNLP files
+corenlp/
+
+# Stanfordnlp module resources
+stanfordnlp-resources/
+
+# Extracted dataset files
+SemEval2010_task8_all_data/
